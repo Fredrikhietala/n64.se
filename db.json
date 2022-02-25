@@ -1,0 +1,48 @@
+{
+  "players": [
+    {
+      "id": 1,
+      "firstName": "Jesper",
+      "lastName": "Karlsson",
+      "reigningChamp": false,
+      "champ": [],
+      "unofficial": {
+        "mooMooFarm": [2017, 2019],
+        "wario": [2017, 2019]
+      }
+    },
+    {
+      "id": 2,
+      "firstName": "Jakob",
+      "lastName": "Melgaard-Zetterberg",
+      "reigningChamp": true,
+      "champ": [2016, 2017, 2019, 2020, 2021],
+      "unofficial": {
+        "mooMooFarm": [],
+        "wario": []
+      }
+    },
+    {
+      "id": 3,
+      "firstName": "Mårten",
+      "lastName": "Zetterberg",
+      "reigningChamp": false,
+      "champ": [2018],
+      "unofficial": {
+        "mooMooFarm": [2016, 2018, 2020, 2021],
+        "wario": [2016, 2018, 2020]
+      }
+    },
+    {
+      "id": 4,
+      "firstName": "Fredrik",
+      "lastName": "Hietala",
+      "reigningChamp": false,
+      "champ": [],
+      "unofficial": {
+        "mooMooFarm": [],
+        "wario": [2021]
+      }
+    }
+  ]
+}
